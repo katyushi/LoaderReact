@@ -1,2 +1,0 @@
-# LoaderReact
-Created with CodeSandbox
